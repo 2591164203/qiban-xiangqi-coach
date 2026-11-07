@@ -1,0 +1,15 @@
+{
+  "vinCommit": "a5a5d487ecd06acc951cd32c865ef20e8e5551b8",
+  "sdk": {
+    "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.427/dotnet-sdk-8.0.427-win-x64.zip",
+    "sha512": "a4dd6eb2bf2a2f6fb10997d3e044a229b23ad96a5c86d20494687e34ee73b537d7bd14488ce14cded6917f6778da4d66360e2734020b7ef487d0f29ab144489d"
+  },
+  "vin": {
+    "url": "https://github.com/Vincentzyx/VinXiangQi/releases/download/v1.4.0/VinXiangQi.v1.4.0.zip",
+    "sha256": "469709C2CAC43BC4FB4ECB3532274A218900FB01ADEBCF92B5C656E391B5F1D6"
+  },
+  "pikafish": {
+    "url": "https://github.com/official-pikafish/Pikafish/releases/download/Pikafish-2026-09-06/Pikafish.2026-09-06.7z",
+    "sha256": "41952BBFE2520FACEB5902C69E6AB4845CC999841D2B49A95CC1BE7867A25E5B"
+  }
+}

@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net8.0-windows</TargetFramework><UseWindowsForms>true</UseWindowsForms><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable></PropertyGroup>
+  <ItemGroup><ProjectReference Include="../../src/ChessCoach/ChessCoach.csproj" /></ItemGroup>
+  <ItemGroup>
+    <Reference Include="Yolov5Net.Scorer"><HintPath>../../vendor/VinXiangQi/packages/Yolov5Net.1.0.9/lib/netstandard2.0/Yolov5Net.Scorer.dll</HintPath></Reference>
+  </ItemGroup>
+  <ItemGroup><Content Include="../fixtures/*.png" Link="fixtures/%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" /></ItemGroup>
+</Project>

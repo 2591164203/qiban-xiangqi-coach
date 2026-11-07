@@ -1,0 +1,37 @@
+{
+  "vinSourceCommit": "a5a5d487ecd06acc951cd32c865ef20e8e5551b8",
+  "vinRelease": "https://github.com/Vincentzyx/VinXiangQi/releases/tag/v1.4.0",
+  "pikafishRelease": "https://github.com/official-pikafish/Pikafish/releases/tag/Pikafish-2026-09-06",
+  "files": [
+    {
+      "file": "assets/models/vin-fast.onnx",
+      "bytes": 7550248,
+      "sha256": "C51A772997AD1C44B360281363CD4138D86A3F5AFCC424B00866397EE9A064D7"
+    },
+    {
+      "file": "assets/models/vin-accurate.onnx",
+      "bytes": 28634823,
+      "sha256": "7F0FE6EA57E327B9493A8D85CE11B1762BD53D47769AEED79877F2BB1D6A6795"
+    },
+    {
+      "file": "assets/models/vin-rotated.onnx",
+      "bytes": 28634823,
+      "sha256": "A015FADEA9C7F33325A12E04CBDF0B9DDC58A44DFBE33592CBB70CB980F5545F"
+    },
+    {
+      "file": "assets/engine/Pikafish-Windows-x86-64-universal.exe",
+      "bytes": 6944256,
+      "sha256": "0D57D64C212E78F96CBA9E5E4F140D8872F8FAA42EA631A27AB6C5DB08509DA3"
+    },
+    {
+      "file": "assets/engine/pikafish.nnue",
+      "bytes": 50706378,
+      "sha256": "7D13D73569A9B571BA0EB20CF1596247BC2A42738967E61AFEF6482B231E900E"
+    },
+    {
+      "file": "assets/fixtures/vin-screen.png",
+      "bytes": 156780,
+      "sha256": "32B915EA5A8F9D11ABA8D733771E09F064ED71BA2A73C2A81613E1ADFDAF699F"
+    }
+  ]
+}
